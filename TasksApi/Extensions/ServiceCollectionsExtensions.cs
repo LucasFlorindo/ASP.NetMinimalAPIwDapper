@@ -8,7 +8,7 @@ namespace TasksApi.Extensions
     {
         public static WebApplicationBuilder AddPersistence(this WebApplicationBuilder builder)
         {
-            var connectionString = builder.Configuration.GetConnectionString("Default Connection");
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
             builder.Services.AddScoped<GetConnection>(sp =>
             async () =>

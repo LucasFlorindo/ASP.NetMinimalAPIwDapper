@@ -6,6 +6,4 @@ namespace TasksApi.Data
 
          public record Task(int Id, string Activity, string Status);
   
-
-    
 }

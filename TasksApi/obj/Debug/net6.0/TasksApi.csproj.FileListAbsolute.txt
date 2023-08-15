@@ -24,3 +24,12 @@ C:\temp\cursoWebService\TasksApi\TasksApi\obj\Debug\net6.0\refint\TasksApi.dll
 C:\temp\cursoWebService\TasksApi\TasksApi\obj\Debug\net6.0\TasksApi.pdb
 C:\temp\cursoWebService\TasksApi\TasksApi\obj\Debug\net6.0\TasksApi.genruntimeconfig.cache
 C:\temp\cursoWebService\TasksApi\TasksApi\obj\Debug\net6.0\ref\TasksApi.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\Dapper.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\cursoWebService\TasksApi\TasksApi\obj\Debug\net6.0\TasksApi.csproj.CopyComplete
